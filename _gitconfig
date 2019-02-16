@@ -1,0 +1,11 @@
+[alias]
+    st = status
+    br = branch
+    co = checkout
+    cm = commit
+    current-branch = rev-parse --abbrev-ref HEAD
+[user]
+	name = tsurutan
+	email = ishaninaritaina623@gmail.com
+[core]
+	editor = /usr/local/bin/vim
